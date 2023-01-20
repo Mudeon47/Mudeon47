@@ -1,4 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요.%20신입%20개발자%20이세하입니다.&fontSize=40&animation=fadeIn&fontAlignY=38)
+
+
+### 안녕하세요. 신입 개발자 이세하입니다.👋🏻
+
+
 
 <!--
 **Mudeon47/Mudeon47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
